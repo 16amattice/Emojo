@@ -66,6 +66,72 @@ const RightBar = () => {
                         <span>1 min ago</span>
                     </div>
                 </div>
+                <div className="item">
+                    <span>Online Friends</span>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                    <div className="user">
+                        <div className="userInfo">
+                            <img src="https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg" alt="" />
+                            <div className="online" />
+                            <span>Jane Doe</span>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
