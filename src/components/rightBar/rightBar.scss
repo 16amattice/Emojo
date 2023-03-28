@@ -11,6 +11,14 @@
     &::-webkit-scrollbar {
       display: none;
     }
+
+    @include mobile{
+      display: none;
+    }
+    @include tablet{
+      display: none;
+    }
+
     .container {
       padding: 20px;
 
@@ -58,7 +66,11 @@
             span {
               font-weight: 500;
               color: themed("textColor");
+              font-size: 16px;
             }
+          }
+          span{
+            font-size: 14px;
           }
           .buttons {
             display: flex;
